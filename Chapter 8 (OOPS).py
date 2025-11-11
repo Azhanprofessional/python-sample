@@ -23,6 +23,7 @@ print(car1.brand)
 # Constructor: __init__ function.
 # All classes have a function call __init__(),which always executed when the object is initiated.
 # The data store inside the class or object or variable is called attributes.
+# self is an object.instance method is self which are argument.
 class Student:
     name="Zaid"
 
